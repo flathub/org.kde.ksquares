@@ -1,7 +1,7 @@
 {
     "id": "org.kde.ksquares",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.12",
+    "runtime-version": "5.13",
     "sdk": "org.kde.Sdk",
     "command": "ksquares",
     "rename-icon": "ksquares",
@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/libkdegames-19.08.1.tar.xz",
-                    "sha256": "1b365627bd0a3a42a32a0a8d401b53d2ac09f0f9cf040b4b0483c5574991b774"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/libkdegames-19.08.2.tar.xz",
+                    "sha256": "83456cec44502a1f79c0be00c983090e32fd8aea5fec1461fbfbd37b5f8866ac"
                 } 
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/ksquares-19.08.1.tar.xz",
-                    "sha256": "39fd1b73c3c13c3322a5658b8deed31261b0e68edc5cb9666ade374d5d9d8283"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/ksquares-19.08.2.tar.xz",
+                    "sha256": "f16fa641f02a6462085d291ed8d3262891cdeeeff8bbbde4e0aabfdac3dc7bc9"
                 } 
             ]
         }
