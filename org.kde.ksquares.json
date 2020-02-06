@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.1/src/libkdegames-19.12.1.tar.xz",
-                    "sha256": "317513544e08d03b2381bdb4c0bcd24c844dd8af7ccc4896569dd05933061d9c"
+                    "url": "https://download.kde.org/stable/release-service/19.12.2/src/libkdegames-19.12.2.tar.xz",
+                    "sha256": "270b20c902dda233f9b28f67eca582d810693d715ce768da6082bfa375248172"
                 } 
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.1/src/ksquares-19.12.1.tar.xz",
-                    "sha256": "955225b9fadbda464bdaf1b59c95c3d12310f84484a296968737e9fb87b37b46"
+                    "url": "https://download.kde.org/stable/release-service/19.12.2/src/ksquares-19.12.2.tar.xz",
+                    "sha256": "13fc28bd4ff77497a2b1bdcee678156b8078ff4df0880042b67d4490973a1ca2"
                 } 
             ]
         }
