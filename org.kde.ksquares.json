@@ -16,35 +16,35 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/libkdegames-21.12.3.tar.xz",
-                    "sha256": "4b2f3fb2af0866f7aba1ae679b505faeb7577b0ab50bd619ecb642c48ae0b574",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/libkdegames-22.04.0.tar.xz",
+                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/libkdegames-$version.tar.xz"
                     }
-                } 
+                }
             ]
         },
         {
             "name": "ksquares",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/ksquares-21.12.3.tar.xz",
-                    "sha256": "dd9c1de3032c847ffca471f12cc698e08d16d74e1290e05129975b1ef05479f1",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/ksquares-22.04.0.tar.xz",
+                    "sha256": "68c3ffa86250000176a2cbe5341393d50ea1c91f14d75f513486edbd381f5188",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/ksquares-$version.tar.xz"
                     }
-                } 
+                }
             ]
         }
     ]
