@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/ksquares-22.12.2.tar.xz",
-                    "sha256": "2aee1bb4fb49a8e67c0754d56dd6f05a541ccbdbcb87ff7313ab86633286b6b7",
+                    "url": "https://download.kde.org/stable/release-service/22.12.3/src/ksquares-22.12.3.tar.xz",
+                    "sha256": "7144a282e046304e3c493ad3484ea806d97d51b691803080f2d3df1597090cb7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
