@@ -1,7 +1,7 @@
 {
     "id": "org.kde.ksquares",
     "runtime": "org.kde.Platform",
-    "runtime-version": "6.9",
+    "runtime-version": "6.10",
     "sdk": "org.kde.Sdk",
     "command": "ksquares",
     "rename-icon": "ksquares",
@@ -28,8 +28,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/libkdegames-25.08.1.tar.xz",
-                    "sha256": "542b2f951c5091c5157cc0f2f53bae61afc47b21115df7441695b82fa725e83a",
+                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/libkdegames-25.08.3.tar.xz",
+                    "sha256": "46f305677fb37978c6b47bd17ab6553b572151a63299bb7b8dc718d37fb448a4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -49,8 +49,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/ksquares-25.08.1.tar.xz",
-                    "sha256": "95be1f4713efd2aec88960f382b4474837a2b50419e5e467114470d89c08e0e0",
+                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/ksquares-25.08.3.tar.xz",
+                    "sha256": "5a773c8c3b518fa2cc5d8cdfbe505ee82d6c0c2bd27828937b2297730addb5cf",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
