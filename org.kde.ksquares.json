@@ -22,8 +22,7 @@
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
             "config-opts": [
-                "-DBUILD_TESTING=OFF",
-                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+                "-DBUILD_TESTING=OFF"
             ],
             "sources": [
                 {
@@ -43,8 +42,7 @@
             "name": "ksquares",
             "buildsystem": "cmake-ninja",
             "config-opts": [
-                "-DBUILD_TESTING=OFF",
-                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+                "-DBUILD_TESTING=OFF"
             ],
             "sources": [
                 {
